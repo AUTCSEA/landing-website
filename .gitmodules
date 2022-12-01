@@ -1,0 +1,3 @@
+[submodule "themes/hugo-fresh"]
+	path = themes/hugo-fresh
+	url = git@github.com:StefMa/hugo-fresh.git
