@@ -1,6 +1,6 @@
 # landing-website
 
-Main static website for the AUT Computer Science &amp; Engineering Association
+Main static website for the AUT Computer Science &amp; Engineering Association.
 
 ## Developer instructions
 
