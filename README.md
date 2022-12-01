@@ -5,9 +5,10 @@ Main static website for the AUT Computer Science &amp; Engineering Association
 ## Developer instructions
 
 **1. Install Hugo**
+
 On MacOS
 
-brew install hugo
+    brew install hugo
 
 On Windows
 
