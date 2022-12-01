@@ -13,6 +13,7 @@ markup:
       unsafe: true # Allows you to write raw html in your md files
 
 params:
+  gitRepo: https://github.com/AUTCSEA/landing-website
   # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
   openGraph: true
   # Used as meta data; describe your site to make Google Bots happy
