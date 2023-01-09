@@ -1,4 +1,4 @@
-baseURL: https://autcsea.github.io/landing-website
+baseURL: https://autcsea.github.io/
 languageCode: en-us
 title: Hugo Fresh Theme
 theme: hugo-fresh
@@ -28,7 +28,7 @@ params:
     # width: 112
     # height: 28
   font:
-    name: 'Open Sans'
+    name: "Open Sans"
     sizes: [400, 600]
   hero:
     # Main hero title
@@ -38,7 +38,7 @@ params:
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: '#'
+    buttonlink: "#"
     # Hero image (from static/images/___)
     image: illustrations/worker.svg
     # Footer logos (from static/images/logos/clients/___.svg)
@@ -139,7 +139,7 @@ params:
     subtitle: To rule them all
     image: illustrations/mockups/app-mockup.png
     buttonText: Get started
-    buttonLink: '#'
+    buttonLink: "#"
   section4:
     title: Our Clients love us!
     subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
@@ -178,7 +178,7 @@ params:
     bulmalogo: true
     quicklinks:
       column1:
-        title: 'Product'
+        title: "Product"
         links:
           - text: Discover features
             link: /
@@ -191,7 +191,7 @@ params:
           - text: AGB
             link: /agb
       column2:
-        title: 'Docs'
+        title: "Docs"
         links:
           - text: Get started
             link: /
@@ -202,7 +202,7 @@ params:
           - text: Developers
             link: /
       column3:
-        title: 'Blog'
+        title: "Blog"
         links:
           - text: Latest news
             link: /blog/first
