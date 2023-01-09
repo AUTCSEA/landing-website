@@ -1,6 +1,7 @@
 name: github pages
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -21,7 +22,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: "latest"
           extended: true
 
       - name: Build
